@@ -1,0 +1,23 @@
+<Doctype!html>
+<html>
+<head>
+<style>
+<!-- font size may need proper fixing--!>
+body{background-color:rgb;font-family:Sans-serif}
+</style>
+<title>Report a bug</title>
+<link rel="shortcut icon" href="img/favicon.ico/>
+</head>
+<!-- Designed for use with Bugzilla--!>
+<body>
+<p> We do apologize for the difficulties that are occuring for you right now. You may sumbit your bug report here and we'll try our best to help fix your issue, and if needed pass it on to the Developers for them to fix it. <br>/>
+Please follow these rules when sumbitting a bug:</p>
+<br/>
+<ol>
+<li>Please provide in as in depth explaination of your issue as possible</li><br/>
+<li>Check for common, major, and previously <!--need to establish link--!> sumbited bugs</li><br/>
+</ol><br/>
+<form>
+<!--Need to have email field not appeared for emailconfirmed users--!>
+<span style="color:red">*Email:
+<input type="text">
